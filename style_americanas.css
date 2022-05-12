@@ -1,0 +1,93 @@
+
+* {
+    background-color: white;    
+}
+
+body {
+
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.compartilhar img{
+    margin-left: 600px;
+}
+.apresentacao img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+.apresentacao_menor{
+    font-family: Helvetica;
+    border: 1px solid white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.apresentacao_menor img{
+    display: inline-block;
+    border: 1px solid lightgrey;
+    padding: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 70px;
+}
+.painel_principal{
+    font-family: Helvetica;
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.produto {    
+    font-family: Helvetica;
+    font-size: 20px;
+    color: black;
+}
+.codigo{
+    color: grey;
+    font-size: 12px;
+}
+.codigo img {
+    margin-right: 4px;
+}
+.painel_valores{
+    font-family: Helvetica;
+    border: 1px solid lightgray;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 400px;    
+}
+.fornecedor{
+    color: grey;    
+}
+.site_principal{
+    font-weight: bold;
+    line-break: loose;
+    color: grey;
+    text-decoration: none;
+}
+.preco { 
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.preco img {
+    margin-left: 1px;
+    width: 70px;
+}
+.parcelamento{
+    color: grey;
+}
+.cartao{
+    color: grey;
+}
+.cartao img{
+    margin-right: 5px;
+    width: 30px;
+}
+.parcela{
+    line-break: loose;
+    color: grey;
+}
